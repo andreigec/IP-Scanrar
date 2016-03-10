@@ -1,2 +1,4 @@
-/SOURCE/Scanrar/obj
-/SOURCE/Scanrar/bin
+*.suo
+bin
+obj
+*.user
